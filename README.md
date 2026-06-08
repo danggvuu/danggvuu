@@ -9,13 +9,15 @@ My name is Dang Vu. I am a 3rd-year Computer Science student. I am interested an
 
 ---
 
-### 📊 GitHub Stats:
+### 📁 Featured Projects / Dự án nổi bật:
 <p align="left">
+  <!-- Dự án 1: Màu Hồng Neon (Radical Theme giống QuickDraw) -->
   <a href="https://github.com/danggvuu/machine_learning-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danggvuu&repo=machine_learning-&theme=radical&hide_border=true" alt="Job Level Classifier" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danggvuu&repo=machine_learning-&theme=radical" alt="Job Level Classifier" width="49%" />
   </a>
+  <!-- Dự án 2: Màu Xanh Lá (Vue-dark Theme giống ASCII-generator) -->
   <a href="https://github.com/danggvuu/NLP-class-fake-news-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danggvuu&repo=NLP-class-fake-news-&theme=tokyonight&hide_border=true" alt="Fake News Classifier" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danggvuu&repo=NLP-class-fake-news-&theme=vue-dark" alt="Fake News Classifier" width="49%" />
   </a>
 </p>
 ---
@@ -24,3 +26,4 @@ My name is Dang Vu. I am a 3rd-year Computer Science student. I am interested an
   <img src="https://github-readme-stats.vercel.app/api?username=danggvuu&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danggvuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+(Nếu sau này bạn có thêm dự án thứ
