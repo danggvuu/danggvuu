@@ -1,8 +1,6 @@
 # WELCOME TO MY GITHUB PAGE! 🚀
 
-👋 Xin chào! Mình là Đăng Vũ, sinh viên Khoa học Máy tính năm 3.
-🏆 Mình có nền tảng tư duy thuật toán vững chắc từ thời học sinh (Cựu học sinh giỏi Tin học cấp Tỉnh chuyên C++).
-🎯 Hiện tại, mình đang tập trung nghiên cứu sâu vào các lĩnh vực: Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), và AI Model Deployment (RAG Pipeline).
+👋 Xin chào! Mình là Đăng Vũ, sinh viên CNTT năm 3.
 
 ### 📬 How to reach me:
 - **LinkedIn:** [https://www.linkedin.com/in/%C4%91%C4%83ng-v%C5%A9-0821b0204/](https://linkedin.com)
