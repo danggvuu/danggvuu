@@ -21,8 +21,7 @@ My name is Dang Vu. I am a 3rd-year Computer Science student. I am interested an
   </a>
 </p>
 ---
-### 📊 GitHub Stats:
+### 📊 Top Languages / Ngôn ngữ lập trình chính:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danggvuu&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danggvuu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danggvuu&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,typescript,json,jupyter%20notebook" alt="Top Languages" width="60%" />
 </p>
