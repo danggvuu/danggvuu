@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PAGE! 🚀
 
-👋 Xin chào! Mình là Đăng Vũ, sinh viên CNTT năm 3.
+👋 Xin chào! Mình là Đăng, sinh viên CNTT.
 
 ### 📬 How to reach me:
 - **LinkedIn:** [https://www.linkedin.com/in/%C4%91%C4%83ng-v%C5%A9-0821b0204/](https://linkedin.com)
